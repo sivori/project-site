@@ -1,6 +1,6 @@
 AUTHOR = 'chris sivori'
 SITENAME = 'project log'
-SITEURL = ''
+SITEURL = 'https://sivori.github.io/project-site/'
 
 PATH = 'content'
 
